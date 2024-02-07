@@ -45,6 +45,7 @@
        }
        ?>
 <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="POST">
+<div class="container5">
     <div class="login-box">
         <h2>Login</h2>
         <div class="user-box">
@@ -66,6 +67,9 @@
 </form>
 </div>
        </form>
-   </section> 
+       </div>       
+   </section>
+   
+   
 </body>
 </html>
